@@ -13,5 +13,6 @@ public class Main {
             totalNumber = totalNumber + number;
         }
         System.out.print("\nTotal Number:" + totalNumber);
+        scanner.close()
     }
 }
