@@ -1,5 +1,3 @@
-import java.awt.*;
-
 public class Student {
     String name = "";
     int age = 0;
@@ -7,7 +5,6 @@ public class Student {
     double grade1 = 0;
     double grade2= 0;
     double grade3 = 0;
-    boolean studentPass = false;
 
     static int totalStudent =0;
     static int passingStudents =0;
