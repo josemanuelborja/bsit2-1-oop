@@ -1,4 +1,4 @@
-public class Student {
+public class GradeCalculator {
 
     static double calculateAverage(double... grades) {
         if (grades.length == 0) {
